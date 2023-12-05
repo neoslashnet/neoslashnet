@@ -54,6 +54,5 @@
 </div>    
 <br/>  
 
-<div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neoslashnet&theme=soft-green)](https://git.io/streak-stats)
-</div>
+<div align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neoslashnet&theme=soft-green)](https://git.io/streak-stats) </div>
+
