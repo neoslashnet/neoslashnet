@@ -35,7 +35,6 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://www.sans.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1701818561/bluecyber_iibanb.png" alt="Cybersecurity" height="50" /></a> 
 <a href="https://www.cisco/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1701818561/networking_icon_l4ooav.png" alt="Networking" height="50" /></a> 
-<a href="[https://www.python.org](https://www.redhat.com/en/topics/cloud-computing/what-is-cloud-infrastructure)/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1701818561/infra_icon_og0qan.png" alt="Infrastructure" height="50" /></a> 
 </div>
 <br/>  
 
