@@ -56,5 +56,5 @@
 
 ## Github Streak Stats
 
-<div align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neoslashnet&theme=soft-green)](https://git.io/streak-stats) </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neoslashnet&theme=soft-green)](https://git.io/streak-stats)
 
