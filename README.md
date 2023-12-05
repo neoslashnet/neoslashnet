@@ -49,7 +49,7 @@
 <a href="https://hashnode.com/@neoslashnet" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>    
 <br/>  
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neoslashnet&theme=soft-green&hide_total_contributions=true)](https://git.io/streak-stats)
