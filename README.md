@@ -59,3 +59,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neoslashnet&theme=soft-green)](https://git.io/streak-stats)
 </div>
 <br/>
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=neoslashnet&&style=flat-square)  
+  
+
+<br/>  
