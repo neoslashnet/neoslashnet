@@ -5,7 +5,7 @@
   
 
 - 🌱 I’m currently learning Python and DevOps
-- 
+ 
 
 - 🎓 I am currently working on my Master's degree in Cybersecurity from Central Washington University 
   
