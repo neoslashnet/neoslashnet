@@ -4,13 +4,13 @@
 -  ☁️ I’m currently working on on building a [SaaS Governance](https://www.aquia.us/saas-governance) program within the US government  
   
 
-- 🌱 I’m currently learning Python and DevOps  
+- 🌱 I’m currently learning Python and DevOps
+- 
+
+- 🎓 I am currently working on my Master's degree in Cybersecurity from Central Washington University 
   
 
 - 🧾 I hold industry wide certifications from ISACA, AWS, Microsoft, CSA, and CompTIA  
-  
-
-- 🎓 I am currently working on my Master's degree in Cybersecurity from Central Washington University  
   
 
 - ⚡ Fun fact: I prefer playing and listening to music over watching movies  
