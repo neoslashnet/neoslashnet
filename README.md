@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Python and DevOps
  
 
-- 🎓 I'm currently enrolled in a Master's degree program in Cybersecurity at Central Washington University 
+- 🎓 I recently finished my Master's degree program in Cybersecurity at Central Washington University 
   
 
 - 🧾 I hold industry wide certifications from ISACA, AWS, Microsoft, CSA, and CompTIA  
