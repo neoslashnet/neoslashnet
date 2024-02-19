@@ -1,7 +1,9 @@
 ### <div align="center">Hi, 👋 my name is David Galiata. I’m a Senior Security Architect 👨‍💻 at [Aquia](https://www.aquia.us/) 🚀 </div>  
+
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1708374013/Blog%20Pictures/Hi_I_m_David_Galiata_xuoe3w.gif">
   
 
--  ☁️ I’m currently working on on building a [SaaS Governance](https://www.aquia.us/saas-governance) program within the US government  
+-  ☁️ I’m currently working on on building a [SaaS Governance Program](https://www.aquia.us/saas-governance)  
   
 
 - 🌱 I’m currently learning Python and DevOps
@@ -10,7 +12,10 @@
 - 🎓 I recently finished my Master's degree in Cybersecurity at Central Washington University 
   
 
-- 🧾 I hold industry wide certifications from ISACA, AWS, Microsoft, CSA, and CompTIA  
+- 🧾 I hold industry wide certifications from ISACA, AWS, Microsoft, CSA, and CompTIA
+
+
+- 📝 I regularly write articles on [My Blog](https://galiata.blog)   
   
 
 - ⚡ Fun fact: I prefer playing and listening to music over watching movies  
@@ -26,7 +31,7 @@
 
 </td><td valign="top" width="33%">
 
-<div align="center">  
+<div align="left">  
 <a href="https://amazon.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1701818561/aws_icon_addfzw.png" alt="AWS" height="50" /></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -39,7 +44,7 @@
 <br/>  
 
 
-## Connect with me  
+##  <div align="center"> Connect with me  
 <div align="center">
 <a href="https://github.com/neoslashnet" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -53,7 +58,7 @@
 </div>    
 <br/>  
 
-## Github Streak Stats
+##  <div align="center"> Github Streak Stats
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neoslashnet&theme=soft-green)](https://git.io/streak-stats)
