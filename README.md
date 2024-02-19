@@ -1,4 +1,4 @@
-### <div align="center">Hi, 👋 my name is David Galiata. I’m a Senior Security Architect 👨‍💻 at [Aquia](https://www.aquia.us/) 🚀 </div>  
+## <div align="center">Hi, 👋 my name is David Galiata. I’m a Senior Security Architect 👨‍💻 at [Aquia](https://www.aquia.us/) 🚀 </div>  
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1708374013/Blog%20Pictures/Hi_I_m_David_Galiata_xuoe3w.gif">
   
