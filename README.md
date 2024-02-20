@@ -15,7 +15,7 @@
 - 🧾 I hold industry wide certifications from ISACA, AWS, Microsoft, CSA, and CompTIA
 
 
-- 📝 I regularly write articles on [My Blog](https://galiata.blog)   
+- 📝 I regularly write articles on my [blog](https://galiata.blog)   
   
 
 - ⚡ Fun fact: I prefer playing and listening to music over watching movies  
