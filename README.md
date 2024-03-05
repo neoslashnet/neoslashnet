@@ -1,8 +1,5 @@
 ## <div align="center">Hi, 👋 my name is David Galiata. I’m a Senior Security Architect 👨‍💻 at [Aquia](https://www.aquia.us/) 🚀 </div>  
-
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1708374013/Blog%20Pictures/Hi_I_m_David_Galiata_xuoe3w.gif">
   
-
 -  ☁️ I’m currently working on on building a [SaaS Governance Program](https://www.aquia.us/saas-governance)  
   
 
@@ -18,20 +15,24 @@
 - 📝 I regularly write articles on my [blog](https://galiata.blog)   
   
 
-- ⚡ Fun fact: I prefer playing and listening to music over watching movies  
+- ⚡ Fun fact: I prefer playing and listening to music over watching movies
+
+<br/>
+
+<div align="center"><img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1708374013/Blog%20Pictures/Hi_I_m_David_Galiata_xuoe3w.gif"> </div>
   
 
 <br/>  
 
 
-## My Skill Set  
+## <div align="center"> My Skill Set  </div>
 
 
 
 
 </td><td valign="top" width="33%">
 
-<div align="left">  
+<div align="center">  
 <a href="https://amazon.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1701818561/aws_icon_addfzw.png" alt="AWS" height="50" /></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
