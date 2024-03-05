@@ -19,7 +19,7 @@
 
 <br/>
 
-<div align="center"><img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1708374013/Blog%20Pictures/Hi_I_m_David_Galiata_xuoe3w.gif"> </div>
+<div align="center"><img align="center" alt="Coding" width="350" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1708374013/Blog%20Pictures/Hi_I_m_David_Galiata_xuoe3w.gif"> </div>
   
 
 <br/>  
