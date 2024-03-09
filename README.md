@@ -1,4 +1,4 @@
-## <div align="center">Hi, 👋 my name is David Galiata. I’m a Senior Security Architect 👨‍💻 at [Aquia](https://www.aquia.us/) 🚀 </div>  
+## <div align="center">Hi, 👋 my name is David Galiata. I’m a Principal Security Architect 👨‍💻 at [Aquia](https://www.aquia.us/) 🚀 </div>  
   
 -  ☁️ I’m currently working on on building a [SaaS Governance Program](https://www.aquia.us/saas-governance)  
   
