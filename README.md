@@ -1,6 +1,6 @@
 ## <div align="center">Hi, 👋 my name is David Galiata. I’m a Principal Security Architect 👨‍💻 at [Aquia](https://www.aquia.us/) 🚀 </div>  
   
--  ☁️ I’m currently working on on building a [SaaS Governance Program](https://www.aquia.us/saas-governance)  
+-  ☁️ I’m currently working on an [AI/ML Program within the US Government](https://www.aquia.us/aquia-inc-announces-support-of-24-million-ai-and-ml-contract-with-cms)  
   
 
 - 🌱 I’m currently learning Python and DevOps
