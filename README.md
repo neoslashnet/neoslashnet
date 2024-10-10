@@ -9,7 +9,7 @@
 - 🎓 I recently finished my Master's degree in Cybersecurity at Central Washington University 
   
 
-- 🧾 I hold industry wide certifications from ISACA, AWS, Microsoft, CSA, and CompTIA
+- 🧾 I hold industry wide certifications from ISC2, ISACA, AWS, Microsoft, CSA, and CompTIA
 
 
 - 📝 I regularly write articles on my [blog](https://galiata.blog)   
