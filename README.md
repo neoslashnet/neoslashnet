@@ -33,14 +33,16 @@
 </td><td valign="top" width="33%">
 
 <div align="center">  
-<a href="https://amazon.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1701818561/aws_icon_addfzw.png" alt="AWS" height="50" /></a>
+<a href="https://amazon.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730835252/icons8-aws-128_vvnspy.png" alt="AWS" height="50" /></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>    
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834934/icons8-bash-100_qzlhxn.png" alt="PowerShell" height="50" /></a>    
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.sans.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834444/icons8-cybersecurity-68_wq5qo5.png" alt="Cybersecurity" height="50" /></a> 
-<a href="https://www.cisco/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1701820198/layer3_atgbzm.png" alt="Networking" height="50" /></a>
+<a href="https://www.sans.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834444/icons8-cybersecurity-68_wq5qo5.png" alt="Cybersecurity" height="50" /></a>
+<a href="https://cloudsecurityalliance.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834935/icons8-cloud-security-96_gqe3sv.png" alt="Cloud Security" height="50" /></a> 
+<a href="https://www.cisco/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834932/icons8-networking-60_gzyeun.png" alt="Networking" height="50" /></a>
+<a href="https://www.nist.gov/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834932/icons8-governance-60_sbslpz.png" alt="Governance and Compliance" height="50" /></a> 
   
 </div>
 <br/>  
