@@ -39,8 +39,9 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>    
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.sans.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1701818561/bluecyber_iibanb.png" alt="Cybersecurity" height="50" /></a> 
-<a href="https://www.cisco/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1701820198/layer3_atgbzm.png" alt="Networking" height="50" /></a> 
+<a href="https://www.sans.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730833758/cybersec_heviek.png" alt="Cybersecurity" height="50" /></a> 
+<a href="https://www.cisco/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1701820198/layer3_atgbzm.png" alt="Networking" height="50" /></a>
+  
 </div>
 <br/>  
 
