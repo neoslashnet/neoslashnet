@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python and DevOps
  
 
-- 🎓 I have a Master's degree in Cybersecurity from Central Washington University 
+- 🎓 I have a Master's degree in Cybersecurity from [Central Washington University](https://www.cwu.edu/)
   
 
 - 🧾 I hold industry wide certifications from ISC2, ISACA, AWS, Microsoft, CSA, and CompTIA
