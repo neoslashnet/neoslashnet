@@ -42,7 +42,8 @@
 <a href="https://www.sans.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834444/icons8-cybersecurity-68_wq5qo5.png" alt="Cybersecurity" height="50" /></a>
 <a href="https://cloudsecurityalliance.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834935/icons8-cloud-security-96_gqe3sv.png" alt="Cloud Security" height="50" /></a> 
 <a href="https://www.cisco/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834932/icons8-networking-60_gzyeun.png" alt="Networking" height="50" /></a>
-<a href="https://www.nist.gov/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834932/icons8-governance-60_sbslpz.png" alt="Governance and Compliance" height="50" /></a> 
+<a href="https://www.nist.gov/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834932/icons8-governance-60_sbslpz.png" alt="Governance and Compliance" height="50" /></a>
+<a href="https://www.hashicorp.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1731716258/icons8-terraform-100_pwyksi.png" alt="Terraform" height="50" /></a> 
   
 </div>
 <br/>  
